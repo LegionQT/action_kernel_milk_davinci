@@ -4,9 +4,9 @@
 # ------------------------------------------------------------
 
 # Kernel
-KERNEL_NAME="MilkKernel"
-KERNEL_GIT="https://github.com/SchweGELBin/kernel_milk_davinci.git"
-KERNEL_BRANCH="vantom-14"
+KERNEL_NAME="MilkKernel-LOS"
+KERNEL_GIT="https://github.com/LineageOS/android_kernel_xiaomi_sm6150.git"
+KERNEL_BRANCH="lineage-21"
 KERNEL_TYPE="vantom"
 
 # KernelSU
